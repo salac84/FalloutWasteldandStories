@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FalloutWasteldandStories", "FalloutWasteldandStories\FalloutWasteldandStories.csproj", "{C0B5D627-D3B8-428F-96F7-ADD0BC3D2528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FalloutWastelandStories.Tests", "FalloutWastelandStories.Tests\FalloutWastelandStories.Tests.csproj", "{21436379-141C-4B71-93B2-5021EFD8C398}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0B5D627-D3B8-428F-96F7-ADD0BC3D2528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B5D627-D3B8-428F-96F7-ADD0BC3D2528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B5D627-D3B8-428F-96F7-ADD0BC3D2528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B5D627-D3B8-428F-96F7-ADD0BC3D2528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21436379-141C-4B71-93B2-5021EFD8C398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21436379-141C-4B71-93B2-5021EFD8C398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21436379-141C-4B71-93B2-5021EFD8C398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21436379-141C-4B71-93B2-5021EFD8C398}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
